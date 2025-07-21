@@ -5,3 +5,4 @@
     Crtvy zaznam v druhem programu
     Záznam pět
     Záznam sest
+    Záznám sedem
