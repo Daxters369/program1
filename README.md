@@ -7,3 +7,4 @@
     Záznam pět
     Záznam sest
     Záznám sedem
+    Zaznam osm
